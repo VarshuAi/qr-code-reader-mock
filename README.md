@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Decrypts mock QR layouts.
+  name: qr-code-reader-mock version: 1.0 type: Repository author: VarshuAi description: >   Decrypts mock QR layouts. primary_tech: CSS
 primary_tech: CSS
 ```
 
